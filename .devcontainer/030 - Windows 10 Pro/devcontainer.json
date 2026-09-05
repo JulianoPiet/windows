@@ -2,7 +2,8 @@
   "name": "Windows 10 Pro",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "10"
+    "VERSION": "10",
+    "PASSWORD": "1234"
   },
   "forwardPorts": [8006],  
   "portsAttributes": {
