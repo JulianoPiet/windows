@@ -25,3 +25,7 @@ Caso esteja utilizando a versão pública compartilhada deste repositório, util
 ## 🛠️ Como Funciona a Instalação
 
 O repositório utiliza um script de automação (`install.bat`) localizado na pasta `windows/`, que é executado automaticamente pelo diretório `/oem` na primeira inicialização do container.
+
+## 🌌 Recomendados
+
+Eu recomendo que você use o Tiny 10 ou tiny 11, Eles são versões modificadas do windows que tiram bastante lixo do windows mas também eles tiram a Microsoft store.
