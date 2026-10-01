@@ -2,7 +2,7 @@
   "name": "Tiny11",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "tiny11"
+    "VERSION": "tiny11",
     "PASSWORD": "1234"
   },
   "forwardPorts": [8006],
