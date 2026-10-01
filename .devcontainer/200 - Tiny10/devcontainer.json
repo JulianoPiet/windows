@@ -2,7 +2,8 @@
   "name": "Tiny10",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "tiny10"
+    "VERSION": "tiny10",
+    "PASSWORD": "1234"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
